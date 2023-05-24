@@ -4,8 +4,6 @@ Perkenalkan nama saya **Muhamad Iksan**.
 
 Saya seorang **Mahasiswa** di [Universitas Muhammadiyah Cirebon](https://www.umc.ac.id/).
 
-Saya bertanggung jawab pada kualitas materi Pengembang FEBE dengan dibekali [sertifikasi dari Dicoding](https://www.dicoding.com/).
-
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhamad-iksan-6a9a88232/)ku ya.
 
 <p align="left">
