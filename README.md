@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhamad Iksan**.
 
-Saya seorang **Full Stack Javascript Developer** di [Universitas Muhammadiyah Cirebon](https://www.umc.ac.id/).
+Saya seorang **Mahasiswa** di [Universitas Muhammadiyah Cirebon](https://www.umc.ac.id/).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhamad-iksan-6a9a88232/)ku ya.
 
