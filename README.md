@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Muhamad Iksan**.
 
-Saya seorang **Mahasiswa** di [Universitas Muhammadiyah Cirebon](https://www.umc.ac.id/).
+Saya lulusan S1 Teknik Informatika UMC [Universitas Muhammadiyah Cirebon](https://www.umc.ac.id/).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhamad-iksan-6a9a88232/)ku ya.
 
